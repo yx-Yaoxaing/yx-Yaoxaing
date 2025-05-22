@@ -12,7 +12,6 @@ Welcome to my Github page! I am Yao Xiang. I know a bit of Java and a bit of Gol
 #### 🌱 Things I am currently working on: 
 - Microservices architecture design  
 - Message middleware and search services
-- Business practices on [bi4 Group Spain](https://github.com/yx-Yaoxaing) 🚀 *coming soon*
  
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
